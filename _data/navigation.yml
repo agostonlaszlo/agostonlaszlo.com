@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: Nyitólap
+- title: Home
   url: /
 
-- title: Rólam
-  url: /rolam/
+- title: About
+  url: /about/
   
-- title: Felvételek
-  url: /felvetelek/
+- title: Recordings
+  url: /recordings/
 
 - title: Moltopera
   url: /moltopera/
@@ -18,9 +18,6 @@
 - title: Blog
   url: /blog/
   
-- title: Interjúk
-  url: /interjuk/
-
-- title: Keresés
+- title: Search
   url: /search/
 
